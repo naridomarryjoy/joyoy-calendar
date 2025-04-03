@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(59, 85, 124)
+}
+.table{
+    border-collapse: separate;
+    width: 100%;
+    border-right: 1px solid rgb(110, 159, 233);
+    background-color: rgb(110, 159, 233);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
